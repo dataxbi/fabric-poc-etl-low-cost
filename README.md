@@ -6,7 +6,7 @@ Materiales usados en una prueba de concepto de ETL low cost con Microsoft Fabric
 
 - [Carpeta con una muestra de los datos utilizados](datos/)
 
-- [Carpeta con las plantillas Power Query utilizadas en los fulos de datos](codigo/flujos_datos/)
+- [Carpeta con las plantillas Power Query utilizadas en los flujos de datos](codigo/flujos_datos/)
 
 - [Notebook Spark utilizada en la actualización incremental](codigo/notebooks/actualizar_meta_act_inc.ipynb)
 
